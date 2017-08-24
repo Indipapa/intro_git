@@ -3,3 +3,4 @@ Gitの練習をしていきます。
 ・git add
 ・git commit
 ・git commit -v により今回の変更内容が分かる
+・git rm
