@@ -5,3 +5,4 @@ Gitの練習をしていきます。
 ・git commit -v により今回の変更内容が分かる
 ・git rm
 ・git status
+・git diff
